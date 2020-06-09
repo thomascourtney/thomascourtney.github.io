@@ -2,6 +2,8 @@
 
 I built this site using github!
 
-It reads [markdown](https://www.markdownguide.org/) and turns it into html.
+Thank you for coming to my website!
+
+thommascourtney@cmail.carleton.ca
 
 ![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
